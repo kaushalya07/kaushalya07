@@ -2,11 +2,11 @@
 <h3 align="center">A passionate frontend developer from Sri lanka</h3>
 
 ---
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **Machine learning**
 
-- 💬 Ask me about **java**
+- 💬 Ask me about **Machine learning**
 
-- 📫 How to reach me **sachinikaushalya4438@gmail.com**
+- 📫 How to reach me **sachinikaushalya.lb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
